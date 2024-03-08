@@ -1,0 +1,354 @@
+ID;Šifrant;Numerična vrednost;Opis
+3;Vrsta zemljišča;1;Zemljišče na katerem je mogoče graditi stavbo in ima gradbeno dovoljenje
+3;Vrsta zemljišča;2;Zemljišče, na katerem je mogoče graditi stavbo in je komunalno opremljeno (priključki na vodo, elektriko in neposredni dostop do dovozne poti)
+3;Vrsta zemljišča;3;Zemljišče, na katerem je ali bo mogoče graditi stavbo in je delno komunalno opremljeno ali komunalno neopremljeno
+3;Vrsta zemljišča;4;Zemljišče, na katerem je ali bo mogoče graditi prometno ali energetsko infrastrukturo (cesta, plinovod in drugo)
+3;Vrsta zemljišča;5;Zemljišče pod stavbo ali drugo stavbi ali delu stavbe pripadajoče zemljišče (zemljišče pod stavbo, dvorišče, dovozna pot, vrt, zelenica, stanovanjski atrij in podobno)
+3;Vrsta zemljišča;6;Zemljišče, na katerem je cesta ali parkirišče
+3;Vrsta zemljišča;7;Zemljišče za kmetijsko rabo (njiva, travnik, pašnik) 
+3;Vrsta zemljišča;8;Zemljišče za kmetijsko rabo, na katerem je trajni nasad
+3;Vrsta zemljišča;9;Zemljišče za gozdno rabo (gozd)
+3;Vrsta zemljišča;10;Neplodno ali vodno zemljišče ali drugo neuporabno zemljišče
+5;Gradbena faza;1;I. gradbena faza
+5;Gradbena faza;2;II. gradbena faza
+5;Gradbena faza;3;III. gradbena faza
+5;Gradbena faza;4;III. podaljšana faza
+5;Gradbena faza;5;IV. gradbena faza
+5;Gradbena faza;6;V. gradbena faza
+6;Vrsta dela stavbe;1;Stanovanjska hiša
+6;Vrsta dela stavbe;2;Stanovanje
+6;Vrsta dela stavbe;3;Parkirni prostor
+6;Vrsta dela stavbe;4;Garaža
+6;Vrsta dela stavbe;5;Pisarniški prostori
+6;Vrsta dela stavbe;6;Prostori za poslovanje s strankami
+6;Vrsta dela stavbe;7;Prostori za zdravstveno dejavnost
+6;Vrsta dela stavbe;8;Trgovski ali storitveni lokal
+6;Vrsta dela stavbe;9;Gostinski lokal
+6;Vrsta dela stavbe;10;Prostori za šport, kulturo ali izobraževanje
+6;Vrsta dela stavbe;11;Industrijski prostori
+6;Vrsta dela stavbe;12;Turistični nastanitveni objekt
+6;Vrsta dela stavbe;13;Kmetijski objekt
+6;Vrsta dela stavbe;14;Tehnični ali pomožni prostori
+6;Vrsta dela stavbe;15;Drugo
+7;Pravno-organizacijska oblika;1;Fizična oseba
+7;Pravno-organizacijska oblika;2;Samostojni podjetnik ali fizicna oseba, ki samostojno opravlja dejavnost
+7;Pravno-organizacijska oblika;3;Gospodarska družba
+7;Pravno-organizacijska oblika;4;Državni organ
+7;Pravno-organizacijska oblika;5;Samoupravna lokalna skupnost
+7;Pravno-organizacijska oblika;6;Drugo
+13;Položaj pogodbene stranke;1;Prvo pogodbena stranka
+13;Položaj pogodbene stranke;2;Drugo pogodbena stranka
+14;Državljanstvo;1;Slovenija
+14;Državljanstvo;2;NERAZVRŠČENO
+14;Državljanstvo;3;Avstrija
+14;Državljanstvo;4;Belgija
+14;Državljanstvo;5;Bosna in Hercegovina
+14;Državljanstvo;6;Češka republika
+14;Državljanstvo;7;Črna Gora
+14;Državljanstvo;8;Danska
+14;Državljanstvo;9;Finska
+14;Državljanstvo;10;Francija
+14;Državljanstvo;11;Grčija
+14;Državljanstvo;12;Hrvaška
+14;Državljanstvo;13;Italija
+14;Državljanstvo;14;Madžarska
+14;Državljanstvo;15;Makedonija, Nekdanja jugoslovanska republika
+14;Državljanstvo;16;Nemčija
+14;Državljanstvo;17;Ruska federacija
+14;Državljanstvo;18;Srbija
+14;Državljanstvo;19;Švica
+14;Državljanstvo;20;Združene države
+14;Državljanstvo;21;Združeno kraljestvo
+14;Državljanstvo;22;Afganistan
+14;Državljanstvo;23;Alandski otoki
+14;Državljanstvo;24;Albanija
+14;Državljanstvo;25;Alžirija
+14;Državljanstvo;26;Ameriška Samoa
+14;Državljanstvo;27;Andora
+14;Državljanstvo;28;Angola
+14;Državljanstvo;29;Angvila
+14;Državljanstvo;30;Antarktika
+14;Državljanstvo;31;Antigva in Barbuda
+14;Državljanstvo;32;Argentina
+14;Državljanstvo;33;Armenija
+14;Državljanstvo;34;Aruba
+14;Državljanstvo;35;Avstralija
+14;Državljanstvo;36;Azerbajdžan
+14;Državljanstvo;37;Bahami
+14;Državljanstvo;38;Bahrajn
+14;Državljanstvo;39;Bangladeš
+14;Državljanstvo;40;Barbados
+14;Državljanstvo;41;Belize
+14;Državljanstvo;42;Belorusija
+14;Državljanstvo;43;Benin
+14;Državljanstvo;44;Bermudi
+14;Državljanstvo;45;Bocvana
+14;Državljanstvo;46;Bolgarija
+14;Državljanstvo;47;Bolivija
+14;Državljanstvo;48;Bouvetov otok
+14;Državljanstvo;49;Božični otok
+14;Državljanstvo;50;Brazilija
+14;Državljanstvo;51;Britansko ozemlje Indijskega oceana
+14;Državljanstvo;52;Brunej, Država
+14;Državljanstvo;53;Burkina Faso
+14;Državljanstvo;54;Burundi
+14;Državljanstvo;55;Butan
+14;Državljanstvo;56;Ciper
+14;Državljanstvo;57;Cookovi otoki
+14;Državljanstvo;58;Čad
+14;Državljanstvo;59;Čile
+14;Državljanstvo;60;Deviški otoki (britanski)
+14;Državljanstvo;61;Deviški otoki (ZDA)
+14;Državljanstvo;62;Dominika
+14;Državljanstvo;63;Dominikanska republika
+14;Državljanstvo;64;Džibuti
+14;Državljanstvo;65;Egipt
+14;Državljanstvo;66;Ekvador
+14;Državljanstvo;67;Ekvatorialna Gvineja
+14;Državljanstvo;68;Eritreja
+14;Državljanstvo;69;Estonija
+14;Državljanstvo;70;Etiopija
+14;Državljanstvo;71;Falklandski otoki (Malvini)
+14;Državljanstvo;72;Ferski otoki
+14;Državljanstvo;73;Fidži
+14;Državljanstvo;74;Filipini
+14;Državljanstvo;75;Francoska Gvajana
+14;Državljanstvo;76;Francoska Polinezija
+14;Državljanstvo;77;Francosko južno ozemlje
+14;Državljanstvo;78;Gabon
+14;Državljanstvo;79;Gambija
+14;Državljanstvo;80;Gana
+14;Državljanstvo;81;Gibraltar
+14;Državljanstvo;82;Grenada
+14;Državljanstvo;83;Grenlandija
+14;Državljanstvo;84;Gruzija
+14;Državljanstvo;85;Guadeloupe
+14;Državljanstvo;86;Guam
+14;Državljanstvo;87;Guernsey
+14;Državljanstvo;88;Gvajana
+14;Državljanstvo;89;Gvatemala
+14;Državljanstvo;90;Gvineja
+14;Državljanstvo;91;Gvineja Bissau
+14;Državljanstvo;92;Haiti
+14;Državljanstvo;93;Heardov otok in McDonaldovi otoki
+14;Državljanstvo;94;Honduras
+14;Državljanstvo;95;Hongkong
+14;Državljanstvo;96;Indija
+14;Državljanstvo;97;Indonezija
+14;Državljanstvo;98;Irak
+14;Državljanstvo;99;Iran (Islamska republika)
+14;Državljanstvo;100;Irska
+14;Državljanstvo;101;Islandija
+14;Državljanstvo;102;Izrael
+14;Državljanstvo;103;Jamajka
+14;Državljanstvo;104;Japonska
+14;Državljanstvo;105;Jemen
+14;Državljanstvo;106;Jersey
+14;Državljanstvo;107;Jordanija
+14;Državljanstvo;108;Južna Afrika
+14;Državljanstvo;109;Južna Georgia in otoki Južni Sandwich
+14;Državljanstvo;110;Kajmanski otoki
+14;Državljanstvo;111;Kambodža
+14;Državljanstvo;112;Kamerun
+14;Državljanstvo;113;Kanada
+14;Državljanstvo;114;Katar
+14;Državljanstvo;115;Kazahstan
+14;Državljanstvo;116;Kenija
+14;Državljanstvo;117;Kirgizistan
+14;Državljanstvo;118;Kiribati
+14;Državljanstvo;119;Kitajska
+14;Državljanstvo;120;Kokosovi (Keeling) otoki
+14;Državljanstvo;121;Kolumbija
+14;Državljanstvo;122;Komori
+14;Državljanstvo;123;Kongo
+14;Državljanstvo;124;Kongo, Demokratična republika
+14;Državljanstvo;125;Koreja, Demokratična ljudska republika
+14;Državljanstvo;126;Koreja, Republika
+14;Državljanstvo;127;Kostarika
+14;Državljanstvo;128;Kuba
+14;Državljanstvo;129;Kuvajt
+14;Državljanstvo;130;Laoška ljudska demokratična republika
+14;Državljanstvo;131;Latvija
+14;Državljanstvo;132;Lesoto
+14;Državljanstvo;133;Libanon
+14;Državljanstvo;134;Liberija
+14;Državljanstvo;135;Libijska arabska džamahirija
+14;Državljanstvo;136;Lihtenštajn
+14;Državljanstvo;137;Litva
+14;Državljanstvo;138;Luksemburg
+14;Državljanstvo;139;Macau
+14;Državljanstvo;140;Madagaskar
+14;Državljanstvo;141;Malavi
+14;Državljanstvo;142;Maldivi
+14;Državljanstvo;143;Malezija
+14;Državljanstvo;144;Mali
+14;Državljanstvo;145;Malta
+14;Državljanstvo;146;Maroko
+14;Državljanstvo;147;Marshallovi otoki
+14;Državljanstvo;148;Martinik
+14;Državljanstvo;149;Mauritius
+14;Državljanstvo;150;Mavretanija
+14;Državljanstvo;151;Mayotte
+14;Državljanstvo;152;Mehika
+14;Državljanstvo;153;Mikronezija (Federativne države)
+14;Državljanstvo;154;Mjanmar
+14;Državljanstvo;155;Moldavija, Republika
+14;Državljanstvo;156;Monako
+14;Državljanstvo;157;Mongolija
+14;Državljanstvo;158;Montserrat
+14;Državljanstvo;159;Mozambik
+14;Državljanstvo;160;Namibija
+14;Državljanstvo;161;Nauru
+14;Državljanstvo;162;Nepal
+14;Državljanstvo;163;Niger
+14;Državljanstvo;164;Nigerija
+14;Državljanstvo;165;Nikaragva
+14;Državljanstvo;166;Niue
+14;Državljanstvo;167;Nizozemska
+14;Državljanstvo;168;Nizozemski Antili
+14;Državljanstvo;169;Norfolški otok
+14;Državljanstvo;170;Norveška
+14;Državljanstvo;171;Nova Kaledonija
+14;Državljanstvo;172;Nova Zelandija
+14;Državljanstvo;173;Oman
+14;Državljanstvo;174;Otok Man
+14;Državljanstvo;175;Otoki Turks in Caicos
+14;Državljanstvo;176;Otoki Wallis in Futuna
+14;Državljanstvo;177;Pakistan
+14;Državljanstvo;178;Palau
+14;Državljanstvo;179;Palestinsko ozemlje, zasedeno
+14;Državljanstvo;180;Panama
+14;Državljanstvo;181;Papua Nova Gvineja
+14;Državljanstvo;182;Paragvaj
+14;Državljanstvo;183;Peru
+14;Državljanstvo;184;Pitcairn
+14;Državljanstvo;185;Poljska
+14;Državljanstvo;186;Portoriko
+14;Državljanstvo;187;Portugalska
+14;Državljanstvo;188;Reunion
+14;Državljanstvo;189;Romunija
+14;Državljanstvo;190;Ruanda
+14;Državljanstvo;191;Saint Helena
+14;Državljanstvo;192;Saint Kitts in Nevis
+14;Državljanstvo;193;Saint Lucia
+14;Državljanstvo;194;Saint Pierre in Miquelon
+14;Državljanstvo;195;Saint Vincent in Grenadine
+14;Državljanstvo;196;Salomonovi otoki
+14;Državljanstvo;197;Salvador
+14;Državljanstvo;198;Samoa
+14;Državljanstvo;199;San Marino
+14;Državljanstvo;200;Sao Tome in Principe
+14;Državljanstvo;201;Saudova Arabija
+14;Državljanstvo;202;Sejšeli
+14;Državljanstvo;203;Senegal
+14;Državljanstvo;204;Severni Marianski otoki
+14;Državljanstvo;205;Sierra Leone
+14;Državljanstvo;206;Singapur
+14;Državljanstvo;207;Sirska arabska republika
+14;Državljanstvo;208;Slonokoščena obala
+14;Državljanstvo;209;Slovaška
+14;Državljanstvo;210;Somalija
+14;Državljanstvo;211;Srednjeafriška republika
+14;Državljanstvo;212;Stranski zunanji otoki Združenih držav
+14;Državljanstvo;213;Sudan
+14;Državljanstvo;214;Surinam
+14;Državljanstvo;215;Svalbard in Jan Mayen
+14;Državljanstvo;216;Svazi
+14;Državljanstvo;217;Sveti sedež (Vatikanska mestna država)
+14;Državljanstvo;218;Španija
+14;Državljanstvo;219;Šrilanka
+14;Državljanstvo;220;Švedska
+14;Državljanstvo;221;Tadžikistan
+14;Državljanstvo;222;Tajska
+14;Državljanstvo;223;Tajvan, Provinca Kitajske
+14;Državljanstvo;224;Tanzanija, Združena republika
+14;Državljanstvo;225;Togo
+14;Državljanstvo;226;Tokelau
+14;Državljanstvo;227;Tonga
+14;Državljanstvo;228;Trinidad in Tobago
+14;Državljanstvo;229;Tunizija
+14;Državljanstvo;230;Turčija
+14;Državljanstvo;231;Turkmenistan
+14;Državljanstvo;232;Tuvalu
+14;Državljanstvo;233;Uganda
+14;Državljanstvo;234;Ukrajina
+14;Državljanstvo;235;Urugvaj
+14;Državljanstvo;236;Uzbekistan
+14;Državljanstvo;237;Vanuatu
+14;Državljanstvo;238;Venezuela
+14;Državljanstvo;239;Vietnam
+14;Državljanstvo;240;Vzhodni Timor
+14;Državljanstvo;241;Zahodna Sahara
+14;Državljanstvo;242;Zambija
+14;Državljanstvo;243;Združeni arabski emirati
+14;Državljanstvo;244;Zelenortski otoki
+14;Državljanstvo;245;Zimbabve
+14;Državljanstvo;247;Curacao
+14;Državljanstvo;248;Sveti Martin (Nizozemska)
+14;Državljanstvo;249;Bonaire, Sint Eustatius in Saba
+14;Državljanstvo;250;Južni Sudan
+14;Državljanstvo;251;Kosovo
+24;Vrsta kupoprodajnega posla;1;Prodaja nepremičnin na prostem trgu
+24;Vrsta kupoprodajnega posla;2;Prodaja nepremičnin na prostovoljni javni dražbi ali druga oblika prostovoljne javne prodaje
+24;Vrsta kupoprodajnega posla;3;Prodaja nepremicnin na javni dražbi ali druga oblika javne prodaje v izvršilnem postopku, prisilni poravnavi, stečaju ali stečajnem postopku
+24;Vrsta kupoprodajnega posla;4;Prodaja nepremičnin družinskim članom, med povezanimi fizičnimi in pravnimi osebami ali med povezanimi pravnimi osebami
+24;Vrsta kupoprodajnega posla;5;Finančni najem (lizing)
+24;Vrsta kupoprodajnega posla;6;Stavbna pravica - ustanovitev ali prenos
+24;Vrsta kupoprodajnega posla;7;Prodaja nepremičnine namesto razlastitve lastnika
+24;Vrsta kupoprodajnega posla;8;Razlastitev lastnika nepremičnine na podlagi zakona
+25;Vrsta najemnega posla;1;Oddajanje stavb ali njihovih delov na prostem trgu
+25;Vrsta najemnega posla;2;Oddajanje stavb ali njihovih delov med povezanimi fizičnimi ali pravnimi osebami
+25;Vrsta najemnega posla;3;Oddajanje denacionaliziranih stanovanjskih nepremičnin na podlagi upravne ali sodne odločbe
+25;Vrsta najemnega posla;4;Drugo odplačno oddajanje
+25;Vrsta najemnega posla;5;Oddajanje stanovanjskih nepremičnin za najemnino, določeno na podlagi zakona
+26;Čas najema;1;Določen čas
+26;Čas najema;2;Nedoločen čas
+27;Vrsta trajnega nasada;1;Vinograd
+27;Vrsta trajnega nasada;2;Oljčnik
+27;Vrsta trajnega nasada;3;Intenzivni sadovnjak - jablane 
+27;Vrsta trajnega nasada;4;Intenzivni sadovnjak - breskve 
+27;Vrsta trajnega nasada;5;Intenzivni sadovnjak - drugo
+27;Vrsta trajnega nasada;6;Hmeljišče
+27;Vrsta trajnega nasada;7;Ekstenzivni oz. travniški sadovnjak
+27;Vrsta trajnega nasada;8;Ostali trajni nasadi
+27;Vrsta trajnega nasada;9;Plantaža gozdnega drevja
+29;Stopnja DDV;1;8,5%
+29;Stopnja DDV;2;20,0%
+29;Stopnja DDV;3;9,5%
+29;Stopnja DDV;4;22,0%
+29;Stopnja DDV;5;Različne stopnje
+30;Vrsta oddanih prostorov;1;Stanovanjska hiša
+30;Vrsta oddanih prostorov;2;Stanovanje
+30;Vrsta oddanih prostorov;3;Parkirni prostor
+30;Vrsta oddanih prostorov;4;Garaža
+30;Vrsta oddanih prostorov;5;Pisarniški prostori
+30;Vrsta oddanih prostorov;6;Prostori za poslovanje s strankami
+30;Vrsta oddanih prostorov;7;Prostori za zdravstveno dejavnost
+30;Vrsta oddanih prostorov;8;Trgovski ali storitveni lokal
+30;Vrsta oddanih prostorov;9;Gostinski lokal
+30;Vrsta oddanih prostorov;10;Prostori za šport, kulturo ali izobraževanje
+30;Vrsta oddanih prostorov;11;Industrijski prostori
+30;Vrsta oddanih prostorov;12;Turistični nastanitveni objekt
+30;Vrsta oddanih prostorov;13;Kmetijski objekt
+30;Vrsta oddanih prostorov;14;Tehnični ali pomožni prostori
+30;Vrsta oddanih prostorov;15;Drugo
+30;Vrsta oddanih prostorov;16;Stanovanjska soba ali sobe
+42;Mikrolokacija oddanih prostorov;1;Klet
+42;Mikrolokacija oddanih prostorov;2;Pritličje
+42;Mikrolokacija oddanih prostorov;3;Nadstropje
+64;Da/Ne;0;Ne
+64;Da/Ne;1;Da
+78;Evidentiranost dela stavbe;0;NEREGISTRIRAN
+78;Evidentiranost dela stavbe;1;REGISTRIRAN
+78;Evidentiranost dela stavbe;2;LOCIRAN
+83;Vrsta akta;1;Osnovna pogodba
+83;Vrsta akta;2;Aneks k pogodbi
+87;Stopnja DDV za sestavine;1;8,5%
+87;Stopnja DDV za sestavine;2;20,0%
+87;Stopnja DDV za sestavine;3;9,5%
+87;Stopnja DDV za sestavine;4;22,0%
+88;Tržnost posla;1;Tržen posel
+88;Tržnost posla;2;Tržen posel – neustrezni podatki
+88;Tržnost posla;3;Drug posel
+88;Tržnost posla;4;Neopredeljen posel
+88;Tržnost posla;5;V preverjanju
