@@ -47,6 +47,6 @@ Podatki za obdelavo so zajeti v dveh datotekah:
         - Vrsta akta	NUMBER (12)
         - Tržnost posla	NUMBER (12)
 
-Za analizo stanovanjskga trga v Ljubljani potrebujemo prav ti dve datoteki, ker datoteka ETN_SLO_KUP_2014_posli_20240302.csv sama po sebi ne vsebuje lokacijo na kateri je bil sklenjen posel. Preko "ID Posla", ki je prisoten v obeh datotekah, lahko ugotovimo kater posel je bil kje sklenjen s tem da poiščemo enak "ID Posla".
+Za analizo stanovanjskga trga v Ljubljani potrebujemo določen par datotek (ETN_SLO_KUP_LETO_zemljisca_20240302.csv, ETN_SLO_KUP_LETO_posli_20240302.csv). Datoteka ETN_SLO_KUP_LETO_posli_20240302.csv sama po sebi ne vsebuje lokacijo na kateri je bil sklenjen posel, zato potrebujemo še ETN_SLO_KUP_LETO_zemljisca_20240302.csv. Preko "ID Posla", ki je prisoten v obeh datotekah, lahko ugotovimo kater posel je bil kje sklenjen.
 
 
