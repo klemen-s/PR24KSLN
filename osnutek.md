@@ -8,7 +8,7 @@
 Stanovanjski trg v Ljubljani je kompleksen in se nenehno spreminja. Cene stanovanj se razlikujejo glede na lokacijo, velikost in druge dejavnike. Cilj tega projekta je razumeti, kako se te cene spreminjajo in kaj vpliva na povpraševanje po stanovanjih v različnih delih mesta. S tem bomo lahko bolje razumeli trende na trgu in kaj bi to lahko pomenilo za ljudi, ki jih zanima nakup stanovanja.
 
 ## Podatki
-Vir: https://egp.gu.gov.si/egp/
+Vir: https://ipi.eprostor.gov.si/jgp/data
 
 Podatki za obdelavo so zajeti v dveh datotekah:
 - ETN_SLO_KUP_2014_zemljisca_20240302.csv
