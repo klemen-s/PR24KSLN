@@ -50,20 +50,20 @@ meseci = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"
 stevec = 0
 
 for leto_analize in podatki_za_leto:
-    povprecno_meseci = dict()
+    meseci_slovar = dict()
 
-    # Init: mesec : število prodanih stanovanj 
+    # Init: mesec -> seznam z vrsticami za ta mesec
     for i in meseci:
-        povprecno_meseci[i] = 0
+        meseci_slovar[i] = 0
     
     # Število prodanih stanovanj v določenem mesecu
     for row in leto_analize:
         mesec = row[5].split(".")[1]
-        povprecno_meseci[mesec] += 1
+        meseci_slovar[mesec] += 1
 
     temp_arr = []
 
-    for stevilo_prodanih_na_mesec in povprecno_meseci.values():
+    for stevilo_prodanih_na_mesec in meseci_slovar.values():
         temp_arr.append(stevilo_prodanih_na_mesec)
 
     temp_arr = np.array(temp_arr)
